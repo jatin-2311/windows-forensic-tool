@@ -28,3 +28,6 @@ It generates an HTML forensic report including processes, services, network info
 3.The report will be generated under:
 
 C:\ForensicReport_YYYYMMDD_HHMMSS\ForensicReport.html
+
+4. requirements
+sqlite3.exe (required for Chrome/Edge history parsing)
